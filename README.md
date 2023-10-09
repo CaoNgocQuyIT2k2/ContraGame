@@ -18,13 +18,6 @@
 15.	setup.py: Đóng gói game thành file thực thi.
 
 
-
-
-
-
-
-
-
 *******************************Chi tiết từng bước tạo game*******************************
 1.	settings.py:
 •	Định nghĩa các hằng số cài đặt cho game:
